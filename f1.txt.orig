@@ -1,6 +1,9 @@
 This is f1
+<<<<<<< HEAD
 -added from f1 branch
+=======
 now added in f1 branch
 this code f1-codeA
 Added using f2 branch
 
+>>>>>>> f2
